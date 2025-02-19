@@ -18,7 +18,7 @@
     ![Filter Projects](result_images/filtered_projects.png)
 
 -   List Task
-    ![List Task](result_images/task.png)
+    ![List Task](result_images/tasks.png)
 
 -   Filter Task
     ![Filter Task](result_images/filtered_tasks.png)
